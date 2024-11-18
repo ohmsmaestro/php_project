@@ -1,0 +1,17 @@
+{
+    "name": "muhammedomenesa/my_php_project",
+    "autoload": {
+        "psr-4": {
+            "Muhammedomenesa\\MyPhpProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omenesa Muhammed",
+            "email": "muhammed.omenesa@microbridge.com.ng"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.14"
+    }
+}
